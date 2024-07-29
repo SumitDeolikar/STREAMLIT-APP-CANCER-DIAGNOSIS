@@ -17,12 +17,12 @@ Please follow the below steps to run the app -
    test is the name of virtual environment created
 
 # 2. Second step is to activate the environment -
-   test\Scripts\activate
+    test\Scripts\activate
 
 # 3. To install the required packages, run -
-   pip install -r requirements.txt
+    pip install -r requirements.txt
 
 # 4 . Usage
 
 To start the app, simply run the following command - 
-streamlit run app/main.py
+   streamlit run app/main.py
