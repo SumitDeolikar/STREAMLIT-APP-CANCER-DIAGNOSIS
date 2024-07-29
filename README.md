@@ -26,3 +26,13 @@ Please follow the below steps to run the app -
 
 To start the app, simply run the following command - 
    streamlit run app/main.py
+
+# App Snippets
+    1. Benign Case
+    ![Screenshot 2024-07-29 173133](https://github.com/user-attachments/assets/e03708b8-4e8d-43dc-b7a3-a260da8fd405)
+    2. Malicious case
+    ![Screenshot 2024-07-29 173304](https://github.com/user-attachments/assets/49a29a08-c482-4789-873c-45aba4283710)
+    3. Changed the Cell Nuclei Measurements
+    ![Screenshot 2024-07-29 173321](https://github.com/user-attachments/assets/f21c8bf9-5f7c-4179-a3e2-8936d039a7fe)
+    4. ![Screenshot 2024-07-29 173406](https://github.com/user-attachments/assets/26614a71-1f78-4d2e-bad1-3eb8b56f8080)
+
