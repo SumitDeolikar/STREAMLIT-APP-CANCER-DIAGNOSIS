@@ -28,8 +28,5 @@ To start the app, simply run the following command -
    streamlit run app/main.py
 
 
-    ![Screenshot 2024-07-29 173304](https://github.com/user-attachments/assets/49a29a08-c482-4789-873c-45aba4283710)
-    3. Changed the Cell Nuclei Measurements
-    ![Screenshot 2024-07-29 173321](https://github.com/user-attachments/assets/f21c8bf9-5f7c-4179-a3e2-8936d039a7fe)
-    4. ![Screenshot 2024-07-29 173406](https://github.com/user-attachments/assets/26614a71-1f78-4d2e-bad1-3eb8b56f8080)
+    
 
